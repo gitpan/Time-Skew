@@ -5,3 +5,4 @@ Skew.pm
 t/check.data
 t/test.data
 t/tester.pl
+META.yml                                 Module meta-data (added by MakeMaker)
