@@ -1,0 +1,7 @@
+MANIFEST
+README
+Makefile.PL
+Skew.pm
+t/check.data
+t/test.data
+t/tester.pl
